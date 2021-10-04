@@ -2,6 +2,11 @@ clc
 clear all 
 close all
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%This code reads bin file from ADC1000 and draw range,  % 
+%range-velocity and Range-angle plots of A single Chirp %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %% global variables
 % Based on sensor configuration.
  %  numADCBits = 16; % number of ADC bits per sample.
